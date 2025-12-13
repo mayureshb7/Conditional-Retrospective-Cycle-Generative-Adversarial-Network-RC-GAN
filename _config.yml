@@ -1,0 +1,27 @@
+gem "github-pages", group: :jekyll_plugins
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+title: Conditional Retrospective Cylce GAN for Video Prediction
+description: Project carried out for course CPSC8810 - ML for Image Synthesis (Dr. Siyu Huang)
+author: Prakhar Gupta, Mayuresh Bhosale
+email: prakhag@clemson.edu
+
+# header_pages:
+  # - _pages/home.md
+
+# include:
+#   - _pages
+
+
+# Minima social links
+# linkedin_username: prakharkalyangupta
+github_username:  pgupta2050
+
+markdown: kramdown
+mathjax: true
+math: true

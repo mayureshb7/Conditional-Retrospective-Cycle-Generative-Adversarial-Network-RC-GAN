@@ -1,0 +1,19 @@
+.image-caption {
+    text-align: center;
+    font-style: italic;
+    color: gray;
+    margin-top: 10px;
+}
+.image-caption img {
+    display: block;
+    margin: 0 auto;
+    max-width: 400px; /*Adjust the width as needed */
+    height: auto; /*Maintain aspect ratio*/
+}
+
+
+.custom-heading {
+    color: #3498db; /* Blue color */
+    font-weight: bold; /* Optional: Adjust font styling */
+    font-size: medium;
+}
