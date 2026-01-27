@@ -1,8 +1,9 @@
 # Conditional Retrospective Cycle Generative Adversarial Network (RC-GAN)
 
 **Authors**:  
-[Prakhar Gupta](https://www.linkedin.com/in/prakharkalyangupta/),  
 [Mayuresh Bhosale](https://www.linkedin.com/in/mayuresh-bhosale-b6b935136/)
+[Prakhar Gupta](https://www.linkedin.com/in/prakharkalyangupta/)
+
 
 **Institution**: Clemson University  
 
